@@ -7,4 +7,4 @@ Este proyecto es una página web simple desarrollada utilizando HTML y CSS. En e
 1. Clona este repositorio en tu máquina local usando el siguiente comando:
 
    ```bash
-   git clone <URL-del-repositorio>
+   git clone <https://github.com/AlanBorjesBlog/CloneGoogleInterface.git>
